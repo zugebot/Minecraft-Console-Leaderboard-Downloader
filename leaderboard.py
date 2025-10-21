@@ -1,4 +1,4 @@
-# Jerrin Shirks
+# zugebot
 
 # native imports
 import time
